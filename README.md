@@ -90,3 +90,7 @@ The fragment version of the same code, `zzat`, does clear its `zzbd` in `onFragm
 
 In `zzas.onActivityDestroyed()`, set `zzb` to null. Better still, make it a local variable, since
 the wrapper installed on the window already keeps the `zzbd` for as long as the window lives.
+
+## License
+
+[Apache 2.0](LICENSE)
